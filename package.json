@@ -9,6 +9,6 @@
   "dependencies": {
     "axios": "^1.6.0",
     "cheerio": "^1.0.0",
-    "stremio-addon-sdk": "file:./stremio-addon-sdk-local"
+    "stremio-addon-sdk": "github:stremio/stremio-addon-sdk"
   }
 }
